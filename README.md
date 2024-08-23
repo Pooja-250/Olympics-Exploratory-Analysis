@@ -22,10 +22,14 @@ The primary goals of this project are:
 The analysis focuses on various datasets, including:
 
 •	Historical Olympic Results: Detailed records of events, athlete performances, and medal counts.
+
 •	Athlete Data: Information on athletes, including their performance metrics, participation history, and biographical 
    details.
+   
 •	Country Performance: Data on medals won by countries, including counts of gold, silver, and bronze.
+
 •	Event Information: Details about different Olympic events, including participant numbers and results.
+
 
 # Tools and Technologies
 
